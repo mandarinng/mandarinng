@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=timeauto&height=200&section=header&text=Welcome%20to%20Gyuri's%20GitHub😊&fontSize=50&desc=Backend%20Developer&Size=25&descAlign=80&descAlignY=70)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20Gyuri's%20GitHub😊&fontSize=50&desc=Backend%20Developer&Size=25&descAlign=80&descAlignY=70)
   ## 🛠 Teck Stack 🛠
 
    ✨ Tech Stacks that I can use <br> 
@@ -39,11 +39,39 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/your-profile-link"/>
 </a>
 <a href="mailto:jinry0034@naver.com">
-  <img src="https://img.shields.io/badge/Naver_Mail-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jinry0034@naver.com-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/>
 </a>
 
+<br><br>
 
+## 🏃‍ Skills and Achievements 🏃‍
+<p align="center">
+  <a href="https://github.com/mandarinng">
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandarinng&layout=compact&theme=transparent">
+  </a>
+  <a href="https://solved.ac/jinry0034">
+    <img align="center" height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jinry0034">
+  </a>
+</p>
 
+<br>
+
+## 🏆 Education & Awards 🏆
+
+| 대회명                    | 날짜             | 수상   | 관련 프로젝트                                     |
+|---------------------------|------------------|--------|--------------------------------------------------|
+| Samsung Software Academy (SSAFY)  | 2023.07 ~ 2024.06|        |                                                  |
+| SSAFY 특화 프로젝트       | 2024년 4월 20일  | 1위    | [Catale](https://github.com/mandarinng/Catale) |
+| SSAFY 자율 프로젝트       | 2024년 5월 22일  | 2위    | [Dobie](https://github.com/mandarinng/Dobie) |
+<br>
+
+## 🔅 Projects 🔅
+
+| 기간                | 프로젝트명 | 설명                              | 역할                          | 프로젝트 |
+|---------------------|------------|-----------------------------------|-------------------------------|---------|
+| 2024.04.08<br>~<br>2024.05.22   | Dobie     | 초보자 인프라 서비스             | TeamLeader, Backend + Frontend Developer| [Dobie](https://github.com/mandarinng/Dobie) |
+| 2024.02.19<br>~<br>2024.04.05   | Catale    | 칵테일 추천 서비스               | Backend Developer                   | [Catale](https://github.com/mandarinng/Catale) |
+| 2024.01.08<br>~<br>2024.02.16   | 룩앳미인   | 비대면 성형 상담 서비스                | TeamLeader, Backend Developer       | [룩앳미인](https://github.com/mandarinng/LookAtMeIn) |
 <br>
 
 ## 🪪 Certificate 🪪
@@ -55,15 +83,6 @@
 | Toeic Speaking IM2         | 2024년 3월 14일  | 한국TOEIC위원회           |                 |
 | 한국사능력검정시험 1급      | 2021년 8월 20일  | 국사편찬위원회            | [한국사능력검정시험.pdf](./한국사능력검정시험.pdf)     |
 
-
-## 🏆 Awards 수상 경력 🏆
-
-| 대회명                  | 날짜             | 수상   | 관련 프로젝트                                     |
-|-------------------------|------------------|--------|--------------------------------------------------|
-| SSAFY 특화 프로젝트      | 2024년 4월 20일  | 1위    | [특화 프로젝트](https://github.com/your-username/특화-프로젝트) |
-| SSAFY 자율 프로젝트      | 2024년 5월 22일  | 2위    | [자율 프로젝트](https://github.com/your-username/자율-프로젝트) |
-
-
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer" />
 </div>
+
