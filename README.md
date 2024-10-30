@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20Gyuri's%20GitHub😊&fontSize=50&desc=Backend%20Developer&Size=25&descAlign=80&descAlignY=70)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20Gyuri's%20GitHub😃&fontSize=50&desc=Backend%20Developer&Size=25&descAlign=80&descAlignY=70)
   ## 🛠 Teck Stack 🛠
 
    ✨ Tech Stacks that I can use <br> 
